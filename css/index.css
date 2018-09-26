@@ -103,6 +103,7 @@ header, .experience {
 	margin-left:0%;
 	text-align:center;
 	margin-bottom: 20px;
+	padding-bottom:30px;
 }
 .education {
 	border: 2px solid #E13A63;
@@ -112,12 +113,12 @@ header, .experience {
 	margin-bottom:20px;
 }
   #headshot {
-
+		margin:-15%;
   	text-align: center;
- 		margin: -10% -10%;
   	border: 2px solid #E13A63;
     width:110%;
     height:110%;
+		margin-bottom:-60px;
   }
 
   .experience {
